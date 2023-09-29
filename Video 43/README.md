@@ -8,4 +8,4 @@
 
 > Unfortunately, I could not upload the __`WSI.svs`__ file in GitHub because it has a size of `107 MB` and it is over the limit of GitHub's requirements.
 
->> But, you can download a random WSI with __`.svs`__ format from this link: [Andrew Janowczyk](http://www.andrewjanowczyk.com/download-tcga-digital-pathology-images-ffpe/)
+>> But, you can download a random WSI with __`.svs`__ format by following the instructions described in this link: [Andrew Janowczyk](http://www.andrewjanowczyk.com/download-tcga-digital-pathology-images-ffpe/)
