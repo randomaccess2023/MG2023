@@ -1,6 +1,6 @@
 # `OpenSlide` for Whole-Slide Image (WSI) Processing
 
-* In notebook `OpenSlide_WSI.ipynb`, I showed how Whole-Slide Image (WSI) can be performed using **OpenSlide** library.
+* In notebook `OpenSlide_WSI.ipynb`, I showed how Whole-Slide Image (WSI) can be processed using **OpenSlide** library.
 
 * Here an example of has been shown using a _**WSI**_ with __`.svs`__ format; this WSI was created using an `Aperio` scanner.
  
