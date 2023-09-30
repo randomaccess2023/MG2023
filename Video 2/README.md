@@ -1,4 +1,4 @@
-# Convolutional AutoEncoder (AE) - Example using USPS dataset
+# Convolutional AutoEncoder (CAE) - Example using USPS dataset
 
 * In notebook `CAE.ipynb`, I showed how image reconstruction can be performed using a **Convolutional AutoEncoder (CAE)**. Like AutoEncoders, _CAEs_ are also generative models.
 
