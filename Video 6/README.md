@@ -4,7 +4,7 @@
 
 * _Silhouette_ score, __DB__ score and __CH__ score are all internal cluster validation techniques which can determine the goodness of clustering algorithms without external references.
 
-* _Silhouette_ score and __CH__ score denotes better clustering if the score is `higher`. On the other hand, a `lower` value of the __DB__ score indicates better clustering.
+* _Silhouette_ score and __CH__ score denote better clustering if the score is `higher`. On the other hand, a `lower` value of the __DB__ score indicates better clustering.
 
 * We can easily calculate these metrics using built-in packages that are available in the `scikit-learn` library.
 
