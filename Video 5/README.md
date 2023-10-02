@@ -1,11 +1,13 @@
 # Internal Cluster Validation: `Dunn index (DI)`
 
-* In notebook `DI.ipynb`, I showed how image reconstruction can be performed using an **AutoEncoder (AE)**. AutoEncoders are generative models.
+* In notebook `DI.ipynb`, I showed how `internal cluster validation` can be performed using **Dunn index (DI)**.
 
-* Here an example of _**AE**_ has been illustrated using a dataset called _**USPS**_, which is a dataset of handwritten digit images with the spatial dimension of 16 x 16 pixels.
- 
-* Apart from the code, I added `Portion of train dataset.pdf`, `Portion of test dataset.pdf`, `Loss curve.pdf` and `Model prediction.pdf` which are a few images you will see in `AE.ipynb`.
+* Cluster validation techniques are used for determining the _goodness_ of a clustering algorithm.
 
-> Some differences can be found with notebook `AE.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
+* In the case of __DI__,  the higher the value, the better the clustering result is.
+
+* __DI__ is calculated by taking the ratio of the lowest inter-cluster distance and the largest intra-cluster distance from the number of clusters within the data.
+
+> Some differences can be found with notebook `DI.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
 These are minor differences. __NO NEED TO WORRY ABOUT IT__.
