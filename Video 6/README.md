@@ -1,12 +1,12 @@
 # Internal Cluster Validation: `Silhouette` score, `Davies-Bouldin (DB)` score, `Calinski-Harabasz (CH)` score 
 
-* In notebook `SDBCH.ipynb`, I showed how `internal cluster validation` can be performed using **Silhouette score, Davies-Bouldin (DB) score and `Calinski-Harabasz (CH)` score**.
+* In notebook `SDBCH.ipynb`, I showed how `internal cluster validation` can be performed using **Silhouette score, Davies-Bouldin (DB) score and Calinski-Harabasz (CH) score**.
 
-* Cluster validation techniques are used for determining the _goodness_ of a clustering algorithm.
+* _Silhouette_ score, __DB__ score and __CH__ score are all internal cluster validation techniques which can determine the goodness of clustering algorithms without external references.
 
-* In the case of __DI__,  the higher the value, the better is the clustering result.
+* _Silhouette_ score and __CH__ score denotes better clustering if the score is `higher`. On the other hand, a `lower` value of the __DB__ score indicates better clustering.
 
-* __DI__ is calculated by taking the ratio of the lowest inter-cluster distance and the largest intra-cluster distance from the number of clusters within the data.
+* We can easily calculate these metrics using built-in packages that are available in the `scikit-learn` library.
 
 > Some differences can be found with notebook `DI.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
