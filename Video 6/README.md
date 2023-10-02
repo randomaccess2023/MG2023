@@ -8,6 +8,6 @@
 
 * We can easily calculate these metrics using built-in packages that are available in the `scikit-learn` library.
 
-> Some differences can be found with notebook `DI.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
+> Some differences can be found with notebook `SDBCH.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
 These are minor differences. __NO NEED TO WORRY ABOUT IT__.
