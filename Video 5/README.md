@@ -4,7 +4,7 @@
 
 * Cluster validation techniques are used for determining the _goodness_ of a clustering algorithm.
 
-* In the case of __DI__,  the higher the value, the better the clustering result is.
+* In the case of __DI__,  the higher the value, the better is the clustering result.
 
 * __DI__ is calculated by taking the ratio of the lowest inter-cluster distance and the largest intra-cluster distance from the number of clusters within the data.
 
