@@ -1,13 +1,13 @@
 # Internal Cluster Validation Using `ClustersFeatures` Module 
 
-* In notebook `SDBCH.ipynb`, I showed how `internal cluster validation` can be performed using **Silhouette score, Davies-Bouldin (DB) score and Calinski-Harabasz (CH) score**.
+* In notebook `ClustersFeatures.ipynb`, I showed how `internal cluster validation` can be performed using **Ball-Hall index, Banfeld-Raftery index, Ray-Turi index, Xie-Beni index, C index, Mclain-Rao index, Wemmert-Gancarski index and PBM index**.
 
-* _Silhouette_ score, __DB__ score and __CH__ score are all internal cluster validation techniques which can determine the goodness of clustering algorithms without external references.
+* __Ball-Hall__ index, __Banfeld-Raftery__ index, __Ray-Turi__ index, __Xie-Beni__ index, __C__ index and __Mclain-Rao__ index are denote better clustering if the `index value` is _lower_.
 
-* _Silhouette_ score and __CH__ score denote better clustering if the score is `higher`. On the other hand, a `lower` value of the __DB__ score indicates better clustering.
+* On the other hand, __Wemmert-Gancarski__ index and __PBM__ index designate better clustering if the `index value` is _higher_.
 
-* We can easily calculate these metrics using built-in packages that are available in the `scikit-learn` library.
+* We can easily calculate these metrics using the `ClustersFeatures` module. In the folder __ClusterFeatures__, you will find a file named `indices.json`. Thisfile is required for `ClustersCharacteristics` method within `ClustersFeatures` module to work properly. You don't need to understand anything that's wriiten in this file.
 
-> Some differences can be found with notebook `SDBCH.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
+> Some differences can be found with notebook `ClustersFeatures.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
 These are minor differences. __NO NEED TO WORRY ABOUT IT__.
