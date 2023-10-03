@@ -2,7 +2,7 @@
 
 * In notebook `ClustersFeatures.ipynb`, I showed how `internal cluster validation` can be performed using **Ball-Hall index, Banfeld-Raftery index, Ray-Turi index, Xie-Beni index, C index, Mclain-Rao index, Wemmert-Gancarski index and PBM index**.
 
-* __Ball-Hall__ index, __Banfeld-Raftery__ index, __Ray-Turi__ index, __Xie-Beni__ index, __C__ index and __Mclain-Rao__ index are denote better clustering if the `index value` is _lower_.
+* __Ball-Hall__ index, __Banfeld-Raftery__ index, __Ray-Turi__ index, __Xie-Beni__ index, __C__ index and __Mclain-Rao__ index denote better clustering if the `index value` is _lower_.
 
 * On the other hand, __Wemmert-Gancarski__ index and __PBM__ index designate better clustering if the `index value` is _higher_.
 
