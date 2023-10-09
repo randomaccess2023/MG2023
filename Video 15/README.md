@@ -1,4 +1,4 @@
-# Mutual Information (`MI`), Adjusted Mutual Information (`AMI`) and Normalized Mutual Information (NMI) - Example using `winr` dataset
+# Mutual Information (`MI`), Adjusted Mutual Information (`AMI`) and Normalized Mutual Information (NMI) - Example using `wine` dataset
 
 * In notebook `MI_AMI_NMI.ipynb`, I showed how `external cluster validation` can be performed using **Mutual Information (MI) and Adjusted Mutual Information (ARI) and Normalized Mutual Information (NMI)**.
 
