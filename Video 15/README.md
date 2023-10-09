@@ -1,6 +1,6 @@
 # Mutual Information (`MI`), Adjusted Mutual Information (`AMI`) and Normalized Mutual Information (`NMI`) - Example using `wine` dataset
 
-* In notebook `MI_AMI_NMI.ipynb`, I showed how `external cluster validation` can be performed using **Mutual Information (MI) and Adjusted Mutual Information (ARI) and Normalized Mutual Information (NMI)**.
+* In notebook `MI_AMI_NMI.ipynb`, I showed how `external cluster validation` can be performed using **Mutual Information (MI) and Adjusted Mutual Information (AMI) and Normalized Mutual Information (NMI)**.
 
 * Here an example of _**MI, AMI and NMI**_ has been shown using _sklearn's_ `wine` dataset. This is a dataset that contains 3 types of wines: `class_0`, `class_1` and `class_2`. It has 178 samples and 13 features. I dropped a few features from the dataset in this example.
  
