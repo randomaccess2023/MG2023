@@ -1,6 +1,6 @@
 # Rand Index (`RI`) and Adjusted Rand Index (`ARI`) - Example using `iris` dataset
 
-* In notebook `RI_ARI.ipynb`, I showed how `external cluster cluster validation` can be performed using **Rand Index (RI) and Adjusted Rand Index (ARI)**.
+* In notebook `RI_ARI.ipynb`, I showed how `external cluster validation` can be performed using **Rand Index (RI) and Adjusted Rand Index (ARI)**.
 
 * Here an example of _**RI and ARI**_ has been shown using _sklearn's_ `iris` dataset. This is a dataset that contains 3 types of flowers: `setosa`, `versicolor` and `virginica`. It has 150 samples and 4 features.
  
