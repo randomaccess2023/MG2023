@@ -13,6 +13,7 @@
 <li> for loop and range function </li>
 <li> break and continue statements within for loop </li>
 <li> if-else sttements within for loop </li>
+<li> else sttement with for loop </li>
 <li> Nested for loops </li>
 <li> for loop and zip function </li>
 </ol>
