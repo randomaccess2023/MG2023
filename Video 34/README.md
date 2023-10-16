@@ -9,3 +9,7 @@
 >> But, you will be able to clearly see all the outputs if you run the script (`PIL.ipynb`) in your computer.
 
 >>> The maximum size for a file to be uploaded in GitHub has to be within __25 MB__.
+
+### Some differences can be found with notebook `PIL.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
+
+### These are minor differences. __NO NEED TO WORRY ABOUT IT__.
