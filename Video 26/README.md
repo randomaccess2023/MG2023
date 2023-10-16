@@ -6,12 +6,12 @@
 
 <ol>
 <li> Iterate through the elements using list comprehension </li>
-<li> `if` statement within list comprehension </li>
-<li> `if-else` statement within list comprehension </li>
-<li> `range` function within list comprehension </li>
+<li> if statement within list comprehension </li>
+<li> if-else statement within list comprehension </li>
+<li> range function within list comprehension </li>
 <li> Iterate through a string using list comprehension </li>
 <li> Reverse string using list comprehension </li>
-<li> Nested `if` statements within list comprehension </li>
+<li> Nested if statements within list comprehension </li>
 <li> Nested list comprehension </li>
 </ol>
 
