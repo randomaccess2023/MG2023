@@ -1,4 +1,4 @@
-# `Dictionaries` in Python
+# `Dictionaries` in Python.
 
 * In notebook `DICTIONARY.ipynb`, I showed how different operations can be performed in Python programming language using **dictioanries**.
 
