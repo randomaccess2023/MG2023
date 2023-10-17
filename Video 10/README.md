@@ -2,7 +2,7 @@
 
 * In notebook `LIST.ipynb`, I showed how different operations can be performed in Python programming language using **lists**.
 
-* Using `lists`, I have shown the following operations
+* Using _lists_, I have shown the following operations
 
 <ol>
 <li> Iterate through the list using for loop </li>
@@ -25,7 +25,7 @@
 <li> Slicing a list </li>
 </ol>
 
-* These are some of the basic operations that can be performed using `lists` in Python.
+* These are some of the basic operations that can be performed using _**lists**_ in Python.
 
 > Some differences can be found with notebook `LIST.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
