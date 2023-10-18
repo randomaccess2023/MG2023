@@ -70,7 +70,7 @@ fatal: refusing to merge unrelated histories
 ## Step 11
 `git pull origin main --allow-unrelated-histories`
 
-Now, the existing works in the **GitHub repository** have been downloaded in our local directory
+Now, the existing works present in the **GitHub repository** have been downloaded in our local directory
 
 We are ready to push our code to __GitHub__ finally
 
