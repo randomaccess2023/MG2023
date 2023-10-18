@@ -56,7 +56,7 @@ hint: Updates were rejected because the remote contains work that you do not hav
 
 You will get __Updates were rejected__ error even if you have just a single `README.md` file in your __GitHub repository__
 
-### This error occurs due to existing works in the _GitHub repository_
+### This error occurs due to the already existing works in the _GitHub repository_
 
 ## Step 10
 `git pull origin main`
