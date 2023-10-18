@@ -81,7 +81,7 @@ Refresh your __GitHub repository__ to see your new work in there
 
 > You actually do need need 12 steps. I explained the process like that to address the errors that occur frequently. You can get the job done in 7 steps only.
 
->> This is what you can do
+>> This is what you actually need to do
 - Step 1: `git init`
 - Step 2: `git add .`
 - Step 3: `git commit -m "commit message"`
