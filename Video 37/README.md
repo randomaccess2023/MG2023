@@ -6,6 +6,6 @@
  
 * Apart from the code, I added `Confusion matrix.pdf` which is an image you will see in `Spectral_Clustering.ipynb`.
 
-> Some differences can be found with notebook `RI_ARI.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
+> Some differences can be found with notebook `Spectral_Clustering.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
 These are minor differences. __NO NEED TO WORRY ABOUT IT__.
