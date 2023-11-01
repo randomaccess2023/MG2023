@@ -1,11 +1,11 @@
-# `Hierarchical` clustering - Example using `wine` dataset
+# `BIRCH` clustering - Example using `titanic` dataset
 
-* In notebook `Hierarchical_Clustering.ipynb`, I showed how __hierarchical__ clustering can be performed using **scikit-learn**.
+* In notebook `BIRCH_Clustering.ipynb`, I showed how __BIRCH__ clustering can be performed using **titanic** dataset.
 
-* Here an example of _**hierarchical**_ clustering has been shown using _sklearn's_ `wine` dataset. This is a dataset that contains 3 types of wines: `class_0`, `class_1` and `class_2`. It has 178 samples and 13 features.
+* Here, I also provided the `titanic.csv` file which is the dataset that I used in this example.
  
-* Apart from the code, I added `Dendrogram (unscaled).pdf`, `Dendrogram (scaled)` and `Confusion matrix.pdf`, which are a few images you will see in `Hierarchical_Clustering.ipynb`.
+* Apart from the code, I added `Confusion matrix.pdf` and `Survived.pdf` which are a few images you will see in `BIRCH_Clustering.ipynb`.
 
-> Some differences can be found with notebook `Hierarchical_Clustering.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
+> Some differences can be found with notebook `BIRCH_Clustering.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
 These are minor differences. __NO NEED TO WORRY ABOUT IT__.
