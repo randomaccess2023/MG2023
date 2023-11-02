@@ -1,11 +1,13 @@
-# `OPTICS` clustering (using `Scikit-Learn`)
+# `Gaussian Mixture Model (GMM)` for clustering - calculate `AIC/BIC`
 
-* In notebook `OPTICS_Clustering.ipynb`, I showed how __OPTICS__ clustering can be performed using **Scikit-Learn**.
+* In notebook `GMM.ipynb`, I tried to implement __Gaussian Mixture Model (GMM)__ for clustering using **Scikit-Learn**.
 
-* Here an example of _**OPTICS**_ clustering has been shown using _sklearn's_ `circles` dataset.
+* Gaussian Mixture Models (GMMs) assume that a certain number of Gaussian distributions exist within a dataset. Therefore, each Gaussian distribution represents a particular cluster.
+
+* We can also calculate `AIC (Akaike Information Criterion)` and `BIC (Bayesian Information Criterion)` in **GMM** clustering to determine the best fit. 
  
-* Apart from the code, I added `Data partition.pdf`, `OPTICS clustering results (case 1).pdf`, `OPTICS clustering label ordering (case 1).pdf`, `OPTICS clustering results (case 2).pdf` and `OPTICS clustering label ordering (case 2).pdf` which are a few images you will see in `OPTICS_Clustering.ipynb`.
+* Apart from the code, I added `Confusion matrix.pdf` and `Plot of best fit.pdf` which are a few images you will see in `GMM.ipynb`.
 
-> Some differences can be found with notebook `OPTICS_Clustering.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
+> Some differences can be found with notebook `GMM.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
 These are minor differences. __NO NEED TO WORRY ABOUT IT__.
