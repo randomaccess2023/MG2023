@@ -2,6 +2,8 @@
 
 * In notebook `GMM.ipynb`, I tried to implement __Gaussian Mixture Model (GMM)__ for clustering using **Scikit-Learn**.
 
+* Here, I also provided the `penguins.csv` file which is the dataset that I used in this example.
+
 * Gaussian Mixture Models (GMMs) assume that a certain number of Gaussian distributions exist within a dataset. Therefore, each Gaussian distribution represents a particular cluster.
 
 * We can also calculate `AIC (Akaike Information Criterion)` and `BIC (Bayesian Information Criterion)` in **GMM** clustering to determine the best fit. 
