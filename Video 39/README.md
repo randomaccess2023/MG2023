@@ -4,7 +4,7 @@
 
 * Here an example of _**DBSCAN**_ clustering has been shown using _sklearn's_ `moons` dataset.
  
-* Apart from the code, I added `Data partition.pdf`, `DBSCAN clustering results (case 1).pdf` and DBSCAN clustering results (case 2) which are a few images you will see in `DBSCAN_Clustering.ipynb`.
+* Apart from the code, I added `Data partition.pdf`, `DBSCAN clustering results (case 1).pdf` and `DBSCAN clustering results (case 2).pdf` which are a few images you will see in `DBSCAN_Clustering.ipynb`.
 
 > Some differences can be found with notebook `DBSACN_Clustering.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
