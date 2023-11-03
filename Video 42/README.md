@@ -4,7 +4,7 @@
 
 * Here an example of _**KMeans**_ clustering has been shown using _sklearn's_ `blobs` dataset.
  
-* Apart from the code, I added `Confusion matrix.pdf`, `Elbow plot.pdf` and `Silhouette plot.pdf` which are a few images you will see in `KMeans_Clustering.ipynb`.
+* Apart from the code, I added `Original data.pdf`, `Confusion matrix.pdf`, `Elbow plot.pdf` and `Silhouette plot.pdf` which are a few images you will see in `KMeans_Clustering.ipynb`.
 
 > Some differences can be found with notebook `KMeans_Clustering.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
