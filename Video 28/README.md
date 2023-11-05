@@ -1,4 +1,4 @@
-# Classify `SVHN images` using pretrained `VGG16` with PyTorch
+# Classify `SVHN` images using pretrained `VGG16` with PyTorch
 
 * In notebook `VGG16.ipynb`, I showed how image classification can be performed using a pretrained **VGG16** architecture.
 
