@@ -6,6 +6,6 @@
  
 * Apart from the code, I added `Portion of training dataset.pdf`, `Portion of test dataset.pdf`, `Loss and accuracy curve.pdf` and `Model prediction.pdf` which are a few images you will see in `EfficientNetV2L.ipynb`.
 
-> Some differences can be found with notebook `AlexNet.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
+> Some differences can be found with notebook `EfficientNetV2L.ipynb` and the code that has been shown in the video of __MEDIOCRE_GUY__ YouTube channel.
 
 These are minor differences. __NO NEED TO WORRY ABOUT IT__.
