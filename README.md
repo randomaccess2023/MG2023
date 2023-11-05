@@ -1,3 +1,3 @@
-# Welcome to the GihHub repository of `MEDIOCRE_GUY` YouTube Channel.
+# Welcome to the GihHub repository of `MEDIOCRE_GUY` YouTube Channel
 
-## You will find the code for all the videos that will be uploaded 
+## You will find the code for all the videos that will be uploaded in the channel in this repository.
