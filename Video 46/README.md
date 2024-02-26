@@ -2,7 +2,7 @@
 
 In this video, I showed how a Vector-Quantized Variational AutoEncoder (`VQ-VAE`) can be trained using `MNIST` dataset.
 
-There are mainly three parts in a `VQ-VAE`: an `encoder`, a `vector-quantizer` and a `decoder`. __Encoder__ extracts features from the original data and then they are provided to the __Vector Quantizer__ section. This section learns a codebook (a fixed-size table of embedding vectors) and outputs discretized latent embeddings. Finally, __Decoder__ receates the input samples from these discretized latent embeddings.
+There are mainly three parts in a `VQ-VAE`: an `encoder`, a `vector-quantizer` and a `decoder`. __Encoder__ extracts features from the original data and then they are provided to the __Vector Quantizer__ section. This section learns a codebook (a fixed-size table of embedding vectors) and outputs discretized latent embeddings. Finally, __Decoder__ recreates the input samples from these discretized latent embeddings.
 
 There are three loss components in a `VQ-VAE`: `reconstruction loss`, `codebook loss` and `commitment loss`. __Reconstruction loss__ optimizes the encoder and decoder. __Codebook loss__ moves the embedding vectors towards the encoder output. __Commitment loss__ makes sure the encoder commits to an embedding.
 
