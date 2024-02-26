@@ -1,3 +1,5 @@
+# Vector-Quantized Variational AutoEncoder (`VQ-VAE`) using PyTorch - Example with `MNIST` dataset
+
 In this video, I showed how a Vector-Quantized Variational AutoEncoder (`VQ-VAE`) can be trained using `MNIST` dataset.
 
 There are mainly three parts in a `VQ-VAE`: an `encoder`, a `vector-quantizer` and a `decoder`. __Encoder__ extracts features from the original data and then they are provided to the __vector Quantizer__ section. This section learns a codebook (a fixed-size table of embedding vectors) and outputs discretized latent embeddings. Finally, __Decoder__ receates the input samples from these discretized latent embeddings.
