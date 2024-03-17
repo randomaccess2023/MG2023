@@ -1,6 +1,6 @@
 # Deep Convolutional Generative Adversarial Network (`DCGAN`) using PyTorch - Example with `FashionMNIST` dataset
 
-In this video, I showed how a Deep Convolutional Generative Adversarial Network (`GAN`) can be trained using `FashionMNIST` dataset.
+In this video, I showed how a Deep Convolutional Generative Adversarial Network (`DCGAN`) can be trained using `FashionMNIST` dataset.
 
 Just like GAN, DCGAN is also made up of two neural networks: __GENERATOR__ and __DISCRIMINATOR__. The `Generator` is responsible for generating realistic looking _fake data_ and the `Discriminator` tries to distinguish the _fake data_ from the _real data_. Generator wants to fool the discriminator by creating samples as real as possible. The major difference of __DCGAN__ with __GAN__ is strided _convolution_ layers are used here instead of _linear_ layers. 
 
