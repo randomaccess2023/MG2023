@@ -1,4 +1,4 @@
-# Deep Convolutional Generative Adversarial Network (`GAN`) using PyTorch - Example with `FashionMNIST` dataset
+# Deep Convolutional Generative Adversarial Network (`DCGAN`) using PyTorch - Example with `FashionMNIST` dataset
 
 In this video, I showed how a Deep Convolutional Generative Adversarial Network (`GAN`) can be trained using `FashionMNIST` dataset.
 
