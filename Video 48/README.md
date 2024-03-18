@@ -12,4 +12,4 @@ You will find the full code in `DCGAN.ipynb` file.
 
 This is how 256 randomly generated samples look like after training the `DCGAN` for 50 epochs:
 
-![Generated samples.jpg]( "Generated samples from noise")
+![Generated samples.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2048/Generated%20samples.jpg "Generated samples from noise")
