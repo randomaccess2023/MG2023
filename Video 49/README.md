@@ -13,3 +13,5 @@ The labels of `FashionMNIST` images were fed to an embedding table with 10 embed
 ![Conditionally generated samples.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2049/Conditionally%20generated%20samples.jpg "Conditionally generated samples.jpg")
 
 The outputs do not look absolutely fantastic but, they are understandable.
+
+The whole code is available in `Conditional_GAN.ipynb` file.
