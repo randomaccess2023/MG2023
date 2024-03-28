@@ -8,7 +8,7 @@ In this video, `FashionMNIST` dataset images have been used to train a *DCGAN* a
 
 ![Portion_FashionMNIST_dataset.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2049/Portion_FashionMNIST_dataset.png "Portion_FashionMNIST_dataset.png")
 
-The labels of `FashionMNIST` images were fed to an embedding table with 10 embeddings (for 10 classes), each with an embedding size of 20. These embeddings were then added with image features to train the `GAN`. Here is randomly sampled output of 40 images (conditioned on labels) after training the `Conditional_GAN` for 25 epochs with a learning rate of 0.0001.
+The labels of `FashionMNIST` images were fed to an embedding table with 10 embeddings (for 10 classes), each with an embedding size of 20. These embeddings were then added with image features to conditionally train the `GAN`. Here is the randomly sampled output of 40 images (conditioned on labels) provided by the __generator__ of the network after training the `Conditional_GAN` for 25 epochs with a learning rate of 0.0001.
 
 ![Conditionally generated samples.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2049/Conditionally%20generated%20samples.jpg "Conditionally generated samples.jpg")
 
