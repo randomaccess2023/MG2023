@@ -1,6 +1,6 @@
 # Conditonal Generative Adversarial Network (`Conditional_GAN`) using PyTorch - Example with `FashionMNIST` dataset
 
-Generative adversarial networks (`GANs`) can be used to generate novel image data from random noise. Typically, the random noise is sampled from a normal distribution and then it goes through a series of transformations to turn into something meaningful (e.g., a new image like the ones on which is it is trained).
+Generative adversarial networks (`GANs`) can be used to generate novel image data from random noise. Typically, the random noise is sampled from a normal distribution and then it goes through a series of transformations to turn into something meaningful (e.g., a new image like the one on which it is trained).
 
 However, a _DCGAN_ doesn't let us control the appearance of the samples that are being generated. To be able to control what we want to generate, a conditioning mechanism needs to be utilized such as the **class** of an image.
 
