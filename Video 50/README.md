@@ -11,7 +11,7 @@ In simple terms, two processes happen in denoising diffusion probabilistic model
 
 ### DDPM Training Process:
 
-![DDPM_Training_Process.png]( "DDPM_Training_Process.png")
+![DDPM_Training_Process.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2050/DDPM_Training_Process.png "DDPM_Training_Process.png")
 
 - Source image **$𝑥_0$** is randomly sampled from the original data distribution **$𝑞(x_0)$**
 - **$𝑡$** (time step) is sampled uniformly between **$1$** and **$𝑇$**
@@ -20,7 +20,7 @@ In simple terms, two processes happen in denoising diffusion probabilistic model
 
 ### DDPM Sampling Process:
 
-![DDPM_Sampling_Process.png]( "DDPM_Sampling_Process.png")
+![DDPM_Sampling_Process.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2050/DDPM_Sampling_Process.png "DDPM_Sampling_Process.png")
 
 - Sampling starts from **$𝑥_𝑇$** which is an _isotropic Gaussian distribution_
 - Neural network gradually denoises it until **$𝑡 = 1$**
