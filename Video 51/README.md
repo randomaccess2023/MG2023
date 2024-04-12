@@ -11,3 +11,5 @@ For this example, MNIST dataset has been used. Here are some of the reconstructe
 I also tried to generate desired images (according to the labels) from __random noise__ and they look like this:
 
 ![Generated_images_from_noise.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2051/Generated_images_from_noise.jpg "Generated_images_from_noise.jpg")
+
+The full code is available in the script called `Cond_VAE.ipynb`.
