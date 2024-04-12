@@ -6,4 +6,4 @@ The __encoder__ tries to learn q(z|x, y) which is the same as learning the hidde
 
 For this example, MNIST dataset has been used. Here are some of the reconstructed samples produced from randomly taken images from the `MNIST` _test set_:
 
-![Model_prediction.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2051/Model_prediction.jpg, "Model_prediction.jpg")
+![Model_prediction.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2051/Model_prediction.jpg "Model_prediction.jpg")
