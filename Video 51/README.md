@@ -7,3 +7,7 @@ The __encoder__ tries to learn q(z|x, y) which is the same as learning the hidde
 For this example, MNIST dataset has been used. Here are some of the reconstructed samples produced from randomly taken images from the `MNIST` _test set_:
 
 ![Model_prediction.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2051/Model_prediction.jpg "Model_prediction.jpg")
+
+I also tried to generate desired images (according to the labels) from __random noise__ and they look like this:
+
+![Generated_images_from_noise.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2051/Generated_images_from_noise.jpg "Generated_images_from_noise.jpg")
