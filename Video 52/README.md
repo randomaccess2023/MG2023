@@ -19,3 +19,5 @@ I made a theoretical video on DDPM (__`DDPMs - Denoising Diffusion Probabilistic
 #### Random_sampling_from_noise:
 
 ![Random_sampling_from_noise.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2052/Random_sampling_from_noise.jpg "Random_sampling_from_noise.jpg")
+
+The full code is available in the script called `DDPM.ipynb`.
