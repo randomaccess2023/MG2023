@@ -4,4 +4,16 @@ In diffusion models, the original data distribution is destroyed by gradually ad
 
 ### The idea behind using diffusion models is to generate `realistic-looking images` from `pure noise` only if the model is trained well.
 
-[![DDPMs](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/hpgFQd9xJhA?si=Rdj9DZLtKLk2-4x8 "DDPMs")
+[![DDPMs](https://github.com/randomaccess2023/MG2023/blob/main/Video%2052/DDPMs.jpg)](https://youtu.be/hpgFQd9xJhA?si=Rdj9DZLtKLk2-4x8 "DDPMs")
+
+#### Forward_process_output:
+
+![Forward_Process_Output.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2052/Forward_process_output.jpg "Forward_Process_Output.jpg")
+
+#### Reverse_process_output:
+
+![Reverse_Process_Output.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2052/Reverse_process_output.jpg "Reverse_Process_Output.jpg")
+
+#### Random_sampling_from_noise:
+
+![Random_sampling_from_noise.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2052/Random_sampling_from_noise.jpg "Random_sampling_from_noise.jpg")
