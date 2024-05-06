@@ -58,7 +58,7 @@ You will get __Updates were rejected__ error even if you have just a single `REA
 
 ### This error occurs due to the already existing works in the _GitHub repository_
 
-## Step 10
+## Step 11
 `git pull origin main`
 
 Unfortunately the existing works in the **GitHub repository** have not been downloaded in our local directory
@@ -67,19 +67,19 @@ __Rather it shows__
 
 fatal: refusing to merge unrelated histories
 
-## Step 11
+## Step 12
 `git pull origin main --allow-unrelated-histories`
 
 Now, the existing works present in the **GitHub repository** have been downloaded in our local directory
 
 We are ready to push our code to __GitHub__ finally
 
-## Step 12
+## Step 13
 `git push -u origin main`
 
 Refresh your __GitHub repository__ to see your new work in there
 
-> You actually do not need 12 steps. I explained the process like that to address the errors that occur frequently. You can get the job done in 7 steps only.
+> You actually do not need 13 steps. I explained the process like that to address the errors that occur frequently. You can get the job done in 7 steps only.
 
 >> This is what you actually need to do
 - Step 1: `git init`
