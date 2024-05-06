@@ -79,7 +79,7 @@ We are ready to push our code to __GitHub__ finally
 
 Refresh your __GitHub repository__ to see your new work in there
 
-> You actually do need need 12 steps. I explained the process like that to address the errors that occur frequently. You can get the job done in 7 steps only.
+> You actually do not need 12 steps. I explained the process like that to address the errors that occur frequently. You can get the job done in 7 steps only.
 
 >> This is what you actually need to do
 - Step 1: `git init`
