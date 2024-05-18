@@ -4,3 +4,8 @@ In this video, `MNIST` dataset images have been used to train a *Conditional_DDP
 
 ![mnist_portion.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2054/mnist_portion.png "mnist_portion.png")
 
+The labels of `MNIST` images were fed to an embedding table with 10 embeddings (for 10 classes), each with an embedding size of 256 (the same as time embeddings). These embeddings were then added with time embeddings to conditionally train the `DDPM`.
+
+I made a video on unconditional DDPM (__Denoising Diffusion Probabilistic Model (`DDPM`) using PyTorch - Example with `MNIST` dataset__) previously (where I typed up the entiore code from scratch) and you can watch it if you want:
+
+[![DDPMs](https://markdown-videos-api.jorgenkh.no/youtube/obYjlH9Z63k)](https://youtu.be/obYjlH9Z63k)
