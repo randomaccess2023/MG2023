@@ -10,7 +10,7 @@ I made a video on unconditional DDPM (__Denoising Diffusion Probabilistic Model 
 
 [![Unconditional DDPM](https://markdown-videos-api.jorgenkh.no/youtube/obYjlH9Z63k)](https://youtu.be/obYjlH9Z63k)
 
-In this video, I didn't type up the entire code from scratch but made only necessary changes needed to train the `DDPM` conditionally on the labels of `MNIST` images.
+In this video, I didn't type up the entire code from scratch but made only the necessary changes needed to train the `DDPM` conditionally on the labels of `MNIST` images.
 
 #### Forward_process_output:
 
