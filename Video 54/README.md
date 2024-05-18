@@ -6,6 +6,22 @@ In this video, `MNIST` dataset images have been used to train a *Conditional_DDP
 
 The labels of `MNIST` images were fed to an embedding table with 10 embeddings (for 10 classes), each with an embedding size of 256 (the same as time embeddings). These embeddings were then added with time embeddings to conditionally train the `DDPM`.
 
-I made a video on unconditional DDPM (__Denoising Diffusion Probabilistic Model (`DDPM`) using PyTorch - Example with `MNIST` dataset__) previously (where I typed up the entiore code from scratch) and you can watch it if you want:
+I made a video on unconditional DDPM (__Denoising Diffusion Probabilistic Model (`DDPM`) using PyTorch - Example with `MNIST` dataset__) previously (where I typed up the entire code from scratch) and you can watch it if you want:
 
-[![DDPMs](https://markdown-videos-api.jorgenkh.no/youtube/obYjlH9Z63k)](https://youtu.be/obYjlH9Z63k)
+[![Unconditional DDPM](https://markdown-videos-api.jorgenkh.no/youtube/obYjlH9Z63k)](https://youtu.be/obYjlH9Z63k)
+
+In this video, I didn't type up the entire code from scratch but made only necessary changes needed to train the `DDPM` conditionally on the labels of `MNIST` images.
+
+#### Forward_process_output:
+
+![forward_process_output.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2054/forward_process_output.png "forward_process_output.png")
+
+#### Reverse_process_output_conditioned_on_label:
+
+![reverse_process_output.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2054/reverse_process_output.png "reverse_process_output.png")
+
+#### Random_sampling_from_noise_conditioned_on_labels:
+
+![random_sampling.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2054/random_sampling.png "random_sampling.png")
+
+The full code is available in the script called `Conditional_DDPM.ipynb`.
