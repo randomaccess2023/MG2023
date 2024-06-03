@@ -6,7 +6,7 @@ The __formulas__ look like this:
 
 ![Formulas.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2055/Formulas.jpg "Formulas.jpg")
 
-### Slides are available
+### Slide is available
 
 The explanation can be found the video.
 
