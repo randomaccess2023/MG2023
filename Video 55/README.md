@@ -4,7 +4,7 @@ In this video, I explained the formulas for calculating the output shape of conv
 
 The __formulas__ look like this:
 
-![Formulas.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2055/Formulas.png "Formulas.jpg")
+![Formulas.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2055/Formulas.jpg "Formulas.jpg")
 
 ### Slides are available
 
