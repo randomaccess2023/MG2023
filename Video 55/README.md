@@ -10,4 +10,4 @@ The __formulas__ look like this:
 
 The explanation can be found the video.
 
-[![Video 55](https://markdown-videos-api.jorgenkh.no/youtube/obYjlH9Z63k)](https://youtu.be/obYjlH9Z63k)
+[![Video 55](https://markdown-videos-api.jorgenkh.no/youtube/6D81DMVez8U)](https://youtu.be/6D81DMVez8U)
