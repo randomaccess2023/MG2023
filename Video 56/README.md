@@ -4,8 +4,8 @@ In this video, I tried to show how inset plotting can be done using a very simpl
 
 You will find two figures in this directory: `Fig1.png` & `Fig2.png`.
 
-![Fig1.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2056/Fig1.png "Fig1.png")
-![Fig2.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2056/Fig2.png "Fig2.png")
+![Fig1.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2056/Fig1.png "Fig1.png" =250x250)
+![Fig2.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2056/Fig2.png "Fig2.png" =250x250)
 
 In __figure 1__, I used the zoomed-in view of a certain potion of the original figure as the larger plot and used the main figure as the inset. However, in __figure 2__, I chose the main figure as the larger plot and selected a highlighted portion as the inset.
 
