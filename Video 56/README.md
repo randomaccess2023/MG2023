@@ -1,6 +1,6 @@
 # Inset plotting using Matplotlib
 
-In this video, I tried to show how inset plotting can be done using a very simple example with the help of __Matplotlib__ library. We can call a plot _inset_ when it is inserted within a larger plot.
+In this video, I tried to show how inset plotting can be done using a simple example with the help of the __Matplotlib__ library. We can call a plot _inset_ if inserted within a larger plot.
 
 You will find two figures in this directory: `Fig1.png` & `Fig2.png`.
 
