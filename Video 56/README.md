@@ -6,3 +6,5 @@ You will find two figures in this directory: `Fig1.png` & `Fig2.png`.
 
 ![Fig1.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2056/Fig1.png "Fig1.png")
 ![Fig2.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2056/Fig2.png "Fig2.png")
+
+<img src="Fig1.png" width="200"/><img src="Fig2.png" width="200"/>
