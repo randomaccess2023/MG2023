@@ -1,4 +1,4 @@
-# `K-Nearest Neighbor (KNN)` using Scikit-Learn
+# `K-Nearest Neighbors (KNN)` using Scikit-Learn
 
 __KNN__ is a supervised machine learning algorithm which has been used for a classification task in this example. This algorithm determines the _class_ of a new data point based on a majority vote. The majority here is basically its nearest neighbors `K` (`K` is an integer) in the feature space. The label of the majority decides the class of the new data.
 
