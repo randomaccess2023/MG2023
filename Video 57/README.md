@@ -2,7 +2,7 @@
 
 __KNN__ is a supervised machine learning algorithm which has been used for a classification task in this example. This algorithm determines the _class_ of a new data point based on a majority vote. The majority here is basically its nearest neighbors `K` (`K` is an integer) in the feature space. The label of the majority decides the class of the new data.
 
-I used `wheat_seed.csv` dataset for this example. The dataset is avilable in the repository. This dataset contains three varieties of wheat seed. I initally chose `K=4` but later found out that `K=2` gives the same result as `K=2` for this dataset. In that case, a lower value of __K__ is the desirable one.
+I used `wheat_seed.csv` dataset for this example. The dataset is avilable in the repository. This dataset contains three varieties of wheat seed. I initally chose `K=4` but later found out that `K=2` gives the same result as `K=4` and `K=10` for this dataset. In that case, a lower value of __K__ is the desirable one.
 
 I selected two features (`Length of the nucleus` and `Width of the core`) to display the three classes of the dataset in a 2D scatter plot without scaling the features:
 
