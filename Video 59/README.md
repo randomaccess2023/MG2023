@@ -1,6 +1,6 @@
 # `Support Vector Machine (SVM)` using Scikit-Learn
 
-`SVM` is a supervised machine learning algorithm which has been used for a classification task in this example. SVM can perform both linear and non-linear classification using the _kernel trick_. The main objective of `SVM` is to find the optimal hyperplane in an N-dimensional space that can separate the data points in different classes in the feature space.
+`SVM` is a supervised machine learning algorithm which has been used for a classification task in this example. __Support Vector Machine__ can perform both linear and non-linear classification using the _kernel trick_. The main objective of `SVM` is to find the optimal hyperplane in an N-dimensional space that can separate the data points in different classes in the feature space.
 
 I used `mushrooms.csv` dataset for this example. The dataset is available in the repository. This dataset contains two types of mushrooms: __edible & poisonous__. It has 22 features. I used a `polynomial` kernel with `degree` _2_ to train the `SVM` model and got __99.71%__ accuracy on the test set. The `gamma` and `regularization (C)` parameters were set to _auto_ and _0.2_, respectively.
 
