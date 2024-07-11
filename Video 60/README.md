@@ -1,6 +1,6 @@
 # `Decision Tree` using Scikit-Learn
 
-`Decision Tree` is a supervised machine learning algorithm which has been used for a classification task in this example. It is a tree-like model of decisions and and their possible consequences. It is a type of machine learning algorithm that make predictions based on how a previous set of questions were answered.
+`Decision Tree` is a supervised machine learning algorithm which has been used for a classification task in this example. It is a tree-like model of decisions and their possible consequences. It is a machine learning algorithm that make predictions based on how a previous set of questions was answered.
 
 I used `wheat_seed.csv` dataset for this example. The dataset is available in the repository. This dataset contains three varieties of wheat seed: __Kama, Rosa & Canadian__.
 
