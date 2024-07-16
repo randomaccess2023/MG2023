@@ -2,7 +2,7 @@
 
 `Random Forest` is a supervised machine learning algorithm which has been used for a classification task in this example. It uses multiple decision trees and takes a majority vote on them to reach a single decision. __Random Forest__ is an _ensemble learning_ method.
 
-I used `secondary_mushroom_dataset.csv` for this example. The dataset is available in the repository. This dataset contains two types of mushrooms: __edible & poisonous__. It has 20 features. But, 9 of them contain null values and I dropped them before fitting it to the model. I used 5 trees to train the `Random Forest` model.
+I used `secondary_mushroom_dataset.csv` for this example. The dataset is available in the repository. This dataset contains two types of mushrooms: __edible & poisonous__. It has 20 features. But, 9 of them contain null values and I dropped them before fitting the dataset to the model. I used 5 trees to train the `Random Forest` model.
 
 I obtained the following confusion matrix:
 
