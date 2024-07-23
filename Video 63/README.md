@@ -4,7 +4,7 @@
 
 I used `financial_sentiment_dataset.csv` for this example. The dataset is available in the repository. It contains the sentiments for financial news headlines from the perspective of a retail investor. The sentiments are categorized into three types: __negative, neutral, or positive__.
 
-Count vectorizer has been used to convert the news headlines into numerical vector representation of token counts.
+_Count vectorizer has been used to convert the news headlines into numerical vector representation of token counts_.
 
 This shows the amount of unique sentiments in the dataset:
 
