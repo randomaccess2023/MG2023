@@ -6,4 +6,4 @@ I used sklearn's __digits__ dataset for this example which contains images of 0 
 
 This is how these plots look like:
 
-![feature_to_image.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2063/feature_to_image.jpg "feature_to_image.jpg")
+![feature_to_image.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2064/feature_to_image.jpg "feature_to_image.jpg")
