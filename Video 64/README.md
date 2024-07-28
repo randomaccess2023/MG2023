@@ -8,4 +8,4 @@ This is how these plots look like:
 
 ![feature_to_image.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2064/feature_to_image.jpg "feature_to_image.jpg")
 
-### The full code is available at `feature_to_image.ipynb` file..
+### The full code is available at `feature_to_image.ipynb` file.
