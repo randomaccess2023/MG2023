@@ -1,3 +1,9 @@
 # `Bernoulli Naive Bayes` using Scikit-Learn
 
-`Bernoulli Naive Bayes` is a supervised machine learning algorithm which has been used for a classification task in this example. It is suitable for classification with discrete features (e.g., word counts for text classification). It normally requires integer feature counts but, fractional counts may also work in practice.
+`Bernoulli Naive Bayes` is a supervised machine learning algorithm which has been used for a classification task in this example. It is suitable for classification with binary features, i.e., each feature is assumed to be a binary/boolean variable.
+
+I used `zoo.csv` daatset for this example. The dataset is available in the repository. It contains 16 features for 7 types of animals. Out of these 16, 15 features are binary. They have been used to train the __Bernoulli Naive Bayes__ model.
+
+I obtained the following confusion matrix:
+
+![confusion_matrix.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2065/confusion_matrix.jpg "confusion_matrix.jpg")
