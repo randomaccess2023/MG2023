@@ -1,6 +1,6 @@
 # `AdaBoost Classifier` using Scikit-Learn
 
-`AdaBoost Classifier` is a supervised machine learning algorithm. AdaBoost is the short for __Adaptive Boosting__, which is used as an ensemble method in machine learning. The core principle of AdaBoost is to fit a sequence of weak learners (i.e., models that are only slightly better than random guessing, such as small decision trees) on repeatedly modified versions of the data.
+`AdaBoost Classifier` is a supervised machine learning algorithm. AdaBoost is short for __Adaptive Boosting__ and is used as an ensemble method in machine learning. The core principle of AdaBoost is to fit a sequence of weak learners (i.e., models that are only slightly better than random guessing, such as small decision trees) on repeatedly modified versions of the data.
 
 I used `dry_bean.xlsx` dataset for this example. The dataset is available in the repository. It contains 7 types of beans: __SEKER, BARBUNYA, BOMBAY, CALI, HOROZ, SIRA & DERMASON__.
 
