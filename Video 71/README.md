@@ -1,6 +1,6 @@
 # Machine Learning: `XGBoost Classifier` using Python API
 
-eXtreme Gradient Boosting (`XGBoost`) is a gradient-boosting algorithm for machine learning. XGBoost builds a predictive model by combining the predictions of multiple individual models, often decision trees, in an iterative manner.
+eXtreme Gradient Boosting (`XGBoost`) is a gradient-boosting algorithm for machine learning. __XGBoost__ builds a predictive model by combining the predictions of multiple individual models, often decision trees, in an iterative manner.
 
 I used `banknote_authetication.csv` dataset for this example. The dataset is available in the repository. It contains 2 types of entities in the target column: __0 & 1__.
 
