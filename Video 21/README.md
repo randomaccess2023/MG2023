@@ -1,4 +1,4 @@
-# Internal Cluster Validation: `Hartigan` index
+# Internal Cluster Validation: `Hartigan` index...
 
 * In notebook `Hartigan.ipynb`, I showed how `internal cluster validation` can be performed using **Hartigan index**.
 
