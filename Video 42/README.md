@@ -1,4 +1,4 @@
-# `KMeans` clustering (using `Scikit-Learn`),,
+# `KMeans` clustering (using `Scikit-Learn`)
 
 * In notebook `KMeans_Clustering.ipynb`, I showed how __KMeans__ clustering can be performed using **Scikit-Learn**.
 
