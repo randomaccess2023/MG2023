@@ -18,6 +18,8 @@ Here, $g=1,...,k$ are the number of groups, $n=\sum_{i=1}^{k}n_i$ are the number
 
 - I previously made a video on __Hartigan index__ using __river__ module version 0.7.0.
 
+[![HI](https://markdown-videos-api.jorgenkh.no/youtube/hpgFQd9xJhA)](https://youtu.be/DmHo983YIug)
+
 > `river` module version 0.7.0 is a old version. The latest version of __river__ module doesn't have any method to calculate __Hartigan index__. _Hartigan index_ using `river` module can't be calculated without using the data centroids.
 
 But, I found another way. We can use `ClustersFeatures` module (version 1.0.3) to calculate _Hartigan index_. However, some of the code of the `ClustersFeatures` module is outdated and results in error. So, I downloaded the `ClustersFeatures` __GitHub__ directory and made some changes. This directory after modifications can be found inside the __MODULE__ folder.
