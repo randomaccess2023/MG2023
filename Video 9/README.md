@@ -1,4 +1,4 @@
-# Different uses of `while` loop in Python programming language
+# Different uses of `while` loop in Python programming language.
 
 * In notebook `WHILE_LOOP.ipynb`, I showed how different operations can be performed in Python programming language using **while loops**.
 
