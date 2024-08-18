@@ -1,6 +1,6 @@
 # `Hartigan index` using Python
 
-Hartigan index is computed by taking the logarithm of the ratio among the sum-of-squares between each cluster (__*SSB*__) and the sum-of-squares within the clusters (__*SSW*__). Mathematically, it can be expressed like this
+__Hartigan index (HI)__ is computed by taking the logarithm of the ratio among the sum-of-squares between each cluster (__*SSB*__) and the sum-of-squares within the clusters (__*SSW*__). Mathematically, it can be expressed like this
 
 $$\text{HI}=\log{\left({SSB}\over{SSW}\right)}$$
 
