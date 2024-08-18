@@ -18,7 +18,7 @@ Here, $g=1,...,k$ are the number of groups, $n=\sum_{i=1}^{k}n_i$ are the number
 
 - I previously made a video on __Hartigan index__ using __river__ module version 0.7.0.
 
-[![HI](https://markdown-videos-api.jorgenkh.no/youtube/hpgFQd9xJhA)](https://youtu.be/DmHo983YIug)
+[![HI](https://markdown-videos-api.jorgenkh.no/youtube/DmHo983YIug)](https://youtu.be/DmHo983YIug)
 
 > `river` module version 0.7.0 is a old version. The latest version of __river__ module doesn't have any method to calculate __Hartigan index__. _Hartigan index_ using `river` module can't be calculated without using the data centroids.
 
