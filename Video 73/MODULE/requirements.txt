@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+plotly
+numba
+umap-learn>=0.5.1
+statsmodels
+Pillow
