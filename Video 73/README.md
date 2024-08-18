@@ -24,7 +24,7 @@ Here, $g=1,...,k$ are the number of groups, $n=\sum_{i=1}^{k}n_i$ are the number
 
 But, I found another way. We can use `ClustersFeatures` module (version 1.0.3) to calculate _Hartigan index_. However, some of the code of the `ClustersFeatures` module is outdated and results in error. So, I made some changes to the original `ClustersFeatures` __GitHub__ directory. This directory after modifications can be found inside the __MODULE__ folder.
 
-This is the original GitHub repository of `ClustersFeatures`: [Simon-Bertrand/Clusters-Features](https://github.com/Simon-Bertrand/Clusters-Features)
+This is the original GitHub repository of the `ClustersFeatures` module: [Simon-Bertrand/Clusters-Features](https://github.com/Simon-Bertrand/Clusters-Features)
 
 ##### _I calculated `Hartigan index` using both the `river` and `ClustersFeatures` module and got the same output_.
 
