@@ -14,4 +14,4 @@ I plotted one of the trees:
 
 This is the plot of feature importance:
 
-<img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2078/feature_importance.jpg" width="600" height="400">
+<img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2078/feature_importance.jpg" width="550" height="400">
