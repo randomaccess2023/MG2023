@@ -15,3 +15,5 @@ I plotted one of the trees:
 This is the plot of feature importance:
 
 <img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2078/feature_importance.jpg" width="500" height="400">
+
+### The full code is available at `ExtraTreesClassifier.ipynb` file.
