@@ -12,4 +12,4 @@ This is the plot of feature importance:
 
 <img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2079/feature_importance.jpg" width="480" height="380">
 
-### The full code is available at `GradientBoostingClassifier.ipynb` file.
+### The full code is available at `GBC.ipynb` file.
