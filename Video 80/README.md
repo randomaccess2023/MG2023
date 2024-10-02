@@ -1,6 +1,6 @@
 # `K-fold cross validation` using Scikit-Learn
 
-`K-fold cross validation` is a technique that is used for evaluating the performance of machine learning models. It uses different portions of the dataset as train and test sets in multiple iterations and helps a model to generalize well on unseen data.
+`K-fold cross validation` is a technique used for evaluating the performance of machine learning models. It uses different portions of the dataset as train and test sets in multiple iterations and helps a model to generalize well on unseen data.
 
 Scikit-Learn's __train_test_split__ method uses a fixed set of samples as the train set and the rest of the samples outside the train set as the test set, which can often result in high variance. On the other hand, the __K-fold cross validation__ method provides a more robust estimate of a model's performance.
 
