@@ -8,4 +8,4 @@ I used `car_evaluation.csv` dataset for this example. The dataset is available i
 
 After performing cross validation over the entire dataset, we calculate the mean score on all the folds. _**If we use multiple models, we decide to choose that model with better mean score than the others for a particular dataset**_.
 
-### The full code is avilable at `k_fold_cv.ipynb` file.
+### The full code is available at `k_fold_cv.ipynb` file.
