@@ -9,3 +9,5 @@ I used `car_evaluation.csv` dataset for this example. The dataset is available i
 After performing cross validation over the entire dataset, we calculate the mean score on all the folds. _**If we use multiple models, we decide to choose the model with a better mean score than the others for a particular dataset**_.
 
 ### The full code is available at `k_fold_cv.ipynb` file.
+
+[![kfold](https://markdown-videos-api.jorgenkh.no/youtube/IbnqJeecxIc)](https://youtu.be/IbnqJeecxIc)
