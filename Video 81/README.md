@@ -13,3 +13,5 @@ After trying several combinations of two different hyperparameters (__`n_estimat
 | GradientBoostingClassifier(random_state=42) | 0.959615 | {'max_depth': 5, 'n_estimators': 5} |
 
 Among them, We notice that __Gradient Boosting Classifier__ is better than other two models.
+
+### The full code is available at `GridSearchCV.ipynb` file.
