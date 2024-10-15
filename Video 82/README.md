@@ -19,3 +19,5 @@ I used three different machine learning models (__Random Forest Classifier__, __
 Among them, We notice that __Random Forest Classifier__ is better than other two models.
 
 ### The full code is available at `RandomizedSearchCV.ipynb` file.
+
+[![randomizedsearchcv](https://markdown-videos-api.jorgenkh.no/youtube/naM4AwY3WoY)](https://youtu.be/naM4AwY3WoY)
