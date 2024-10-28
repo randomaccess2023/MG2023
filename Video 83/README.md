@@ -25,3 +25,7 @@ For this reason, FID distance was proposed as an improvement over the inception 
 The video on __FID distance__ is available on the channel:
 
 [![FIDscore](https://markdown-videos-api.jorgenkh.no/youtube/8vWIvcFAWUc)](https://youtu.be/8vWIvcFAWUc)
+
+YouTube video on inception score:
+
+[![Inceptionscore](https://markdown-videos-api.jorgenkh.no/youtube/hLN7cI8aV6c)](https://youtu.be/hLN7cI8aV6c)
