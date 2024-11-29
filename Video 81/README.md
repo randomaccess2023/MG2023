@@ -2,7 +2,7 @@
 
 `GridSearchCV` is a function that comes with Scikit-Learn library and it is a process for tuning hyperparameters in machine learning models. The performance of a machine learning model significantly depends on the selection of hyperparameters. `GridSearchCV` loops through a predefined set of hyperparameters and selects the optimal values from them after exhaustively considering all parameter combinations.
 
-I used `early_stage_diabetes_risk_prediction.csv` dataset for this example. The dataset is available in the repository. It's target column contains 2 unique entities: __Positive & Negative__.
+I used `early_stage_diabetes_risk_prediction.csv` dataset for this example. The dataset is available in the repository. Its target column contains 2 unique entities: __Positive & Negative__.
 
 After trying several combinations of two different hyperparameters (__`n_estimators` & `max_depth`__) for three different machine learning models (__`Random Forest Classifier`, `Extra Trees Classifier` & `Gradient Boosting Classifier`__), we obtained the following best results:
 
