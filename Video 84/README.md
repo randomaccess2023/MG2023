@@ -6,6 +6,6 @@ I used `letter_recognition.csv` dataset for this example. The dataset is availab
 
 I obtained the following confusion matrix:
 
-<img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2084/Confusion_Matrix.png" width="450" height="450">
+<img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2084/Confusion_Matrix.png" width="500" height="500">
 
 ### The full code is available at `Hist_GBC.ipynb` file.
