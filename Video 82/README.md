@@ -6,7 +6,7 @@ Unlike GridSearchCV which systematically examines all the possible combinations,
 
 If the hyperparameter search space is very large, RandomizedSearchCV tends to become a more efficient method for the purpose of hyperparameter tuning. On the other hand, GridSearchCV is a more suitable option if the search space is relatively small and computationally feasible.
 
-I used `indian_liver_patient_dataset.csv` dataset for this example. The dataset is available in the repository. It's target column contains 2 unique entities: __1 & 2__ that denote _Liver Patient_ and _Non Liver Patient_, respectively.
+I used `indian_liver_patient_dataset.csv` dataset for this example. The dataset is available in the repository. Its target column contains 2 unique entities: __1 & 2__ that denote _Liver Patient_ and _Non Liver Patient_, respectively.
 
 I used three different machine learning models (__Random Forest Classifier__, __K Neighbors Classifier__ & __Decision Tree Classifier__) and randomly selected 15, 8 & 5 hyperparameter combinations out of 27, 18 & 9 possible combinations, respectively. The following best results were obtained:
 
