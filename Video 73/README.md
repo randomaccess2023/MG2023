@@ -28,4 +28,4 @@ This is the original GitHub repository of the `ClustersFeatures` module: [Simon-
 
 ##### _I calculated `Hartigan index` using both the `river` and `ClustersFeatures` module and got the same output_.
 
-### The full code is available at the `Hartigan_index.ipynb` file.
+### The full code is available in the `Hartigan_index.ipynb` file.
