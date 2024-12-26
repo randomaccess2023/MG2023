@@ -12,4 +12,4 @@ This is the plot of feature importance:
 
 ![feature_importance.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2070/feature_importance.jpg "feature_importance.jpg")
 
-### The full code is available at `LightGBM_Classifier.ipynb` file.
+### The full code is available in `LightGBM_Classifier.ipynb` file.
