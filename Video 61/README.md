@@ -12,4 +12,4 @@ This is the plot of feature importance:
 
 ![feature_importance.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2061/feature_importance.png "feature_importance.png")
 
-### The full code is available at `random_forest.ipynb` file.
+### The full code is available in `random_forest.ipynb` file.
