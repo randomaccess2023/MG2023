@@ -16,4 +16,4 @@ I also plotted the scores for different values of __K__:
 
 ![scores_for_different_k.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2057/scores_for_different_k.png "scores_for_different_k.png")
 
-### The full code is available at `knn.ipynb` file.
+### The full code is available in `knn.ipynb` file.
