@@ -14,6 +14,6 @@ After trying several combinations of two different hyperparameters (__`n_estimat
 
 Among them, We notice that __Gradient Boosting Classifier__ is better than other two models.
 
-### The full code is available at `GridSearchCV.ipynb` file.
+### The full code is available in `GridSearchCV.ipynb` file.
 
 [![gridsearchcv](https://markdown-videos-api.jorgenkh.no/youtube/niEJvCcw8mM)](https://youtu.be/niEJvCcw8mM)
