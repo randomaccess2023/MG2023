@@ -8,4 +8,4 @@ I obtained the following confusion matrix:
 
 ![confusion_matrix.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2066/confusion_matrix.jpg "confusion_matrix.jpg")
 
-### The full code is available at `GaussianNB.ipynb` file.
+### The full code is available in `GaussianNB.ipynb` file.
