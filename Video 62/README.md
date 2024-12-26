@@ -8,4 +8,4 @@ I obtained the following confusion matrix:
 
 ![plot_confusion_matrix.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2062/plot_confusion_matrix.jpg "plot_confusion_matrix.jpg")
 
-### The full code is available at `Categorical_NB.ipynb` file.
+### The full code is available in `Categorical_NB.ipynb` file.
