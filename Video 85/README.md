@@ -8,7 +8,7 @@ This method is efficient, scalable to large datasets, and works well in high-dim
 
 In summary, `Isolation Forest` in Scikit-learn is a powerful and versatile tool for detecting anomalies in unlabeled datasets, offering a computationally efficient and distribution-independent approach to identifying outliers.
 
-This obtained the following scatter plots using `data.csv` dataset:
+I obtained the following scatter plots using `data.csv` dataset:
 
 <p align="center">
 <img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2085/scatter_plot.jpg" width="400" height="300">
