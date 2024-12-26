@@ -12,4 +12,4 @@ The model prediction looks like this:
 
 ![model_prediction.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2074/model_prediction.jpg "model_prediction.jpg")
 
-### The full code is available at `ANN_Regression.ipynb` file.
+### The full code is available in `ANN_Regression.ipynb` file.
