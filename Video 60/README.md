@@ -16,4 +16,4 @@ This is the plot of __feature importance__:
 
 ![plot_feature_importance.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2060/plot_feature_importance.jpg "plot_feature_importance.jpg")
 
-### The full code is available at `decision_tree.ipynb` file.
+### The full code is available in `decision_tree.ipynb` file.
