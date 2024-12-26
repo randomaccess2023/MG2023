@@ -12,4 +12,4 @@ This is the plot of feature importance:
 
 ![feature_importance.jpg](https://github.com/randomaccess2023/MG2023/blob/main/Video%2076/feature_importance.jpg "feature_importance.jpg")
 
-### The full code is available at `CatBoost_Classifier.ipynb` file.
+### The full code is available in `CatBoost_Classifier.ipynb` file.
