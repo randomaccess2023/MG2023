@@ -8,7 +8,7 @@ However, the inception score is limited by what the _InceptionV3_ model can dete
 
 I generated 60000 MNIST images using an unconditional DDPM model after training it for 50 epochs. I saved all the images in `.jpg` format and stored them in the `gen` folder.
 
-### The full code is available at `Inception_Score.ipynb` file. 
+### The full code is available in `Inception_Score.ipynb` file. 
 
 ### Generated Images can be found here: [Video 53.zip](https://drive.google.com/file/d/18Umq0cES93dM4EjYXrbnoD0V8UCJuEwW/view?usp=drive_link)
 
