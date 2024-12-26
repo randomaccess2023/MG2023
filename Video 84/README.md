@@ -8,6 +8,6 @@ I obtained the following confusion matrix:
 
 <img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2084/Confusion_Matrix.png" width="500" height="500">
 
-### The full code is available at `Hist_GBC.ipynb` file.
+### The full code is available in `Hist_GBC.ipynb` file.
 
 [![Hist_GBC](https://markdown-videos-api.jorgenkh.no/youtube/VuEJ_6iVVyE)](https://youtu.be/VuEJ_6iVVyE)
