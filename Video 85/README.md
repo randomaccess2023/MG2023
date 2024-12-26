@@ -15,4 +15,4 @@ This obtained the following scatter plots using `data.csv` dataset:
 <img src="https://github.com/randomaccess2023/MG2023/blob/main/Video%2085/scatter_plot_with_outliers.jpg" width="400" height="300">
 </p>
 
-### The full code is available at `isolation_forest.ipynb` file.
+### The full code is available in `isolation_forest.ipynb` file.
