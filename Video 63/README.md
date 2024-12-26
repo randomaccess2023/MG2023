@@ -14,4 +14,4 @@ I obtained the following confusion matrix:
 
 ![confusion_matrix.png](https://github.com/randomaccess2023/MG2023/blob/main/Video%2063/confusion_matrix.png "confusion_matrix.png")
 
-### The full code is available at `Multinomial_NB.ipynb` file.
+### The full code is available in `Multinomial_NB.ipynb` file.
